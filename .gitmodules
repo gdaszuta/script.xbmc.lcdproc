@@ -1,0 +1,3 @@
+[submodule "resources/lib/pylcdui"]
+	path = resources/lib/pylcdui
+	url = git@github.com:gdaszuta/pylcdui.git
